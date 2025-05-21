@@ -1,0 +1,14 @@
+{
+  "name": "food-ordering-kiosk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "pnpm -C client start",
+    "install-client": "pnpm -C client install",
+    "install-server": "pnpm -C server install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
