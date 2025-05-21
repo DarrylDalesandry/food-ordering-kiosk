@@ -59,7 +59,7 @@ This means that I can do web dev work over a short time. If I work somewhere,
 and I am tasked with changing the color of a button, or get a function to work
 with an API, that is something I can do as one-off work. But it is not
 professional work I would be able to do every day. I would burn out fast.
-Perhaps, I could cover someone for a sick day for a day or two, while working
+Perhaps I could cover someone for a sick day for a day or two while working
 on other coding projects for a company or organization as my main job.
 
 This means web dev is not satisfying work for me. Even though I really like
@@ -77,10 +77,10 @@ These two projects were fun for me to work on.
 In the calculator app, I liked taking inspiration from the functional
 programming paradigm to write my own split function, and passing the output to
 other functions that would solve math equations in the order of operations. I
-liked coding the easter egg with the solar cells on the calculator.
+also liked coding an easter egg into the solar cells on the calculator.
 
 In the single page app, I had a good time making the logic of what parts of a
-web page to update based on state, or the key-value pairs of an object. I also
+web page to update based on state, the key-value pairs of an object. I also
 liked using CSS to make different designs of the page at different pixel
 widths.
 
@@ -89,8 +89,8 @@ For all of you reading this:
 
 What this ultimately means, is that I can be a hobbyist web developer. I can
 make my own personal projects and enjoy what I am working on for myself. In a
-professional workplace, I could also make simple web apps simply for me, and to
-make other development work easier or to have something that the office could
-use to make work more fun.
+professional workplace, I could also make simple web apps simply for me, and for
+an office to have something simple to look at. It wouldn't be flashy or stylish,
+but it would be functional and pretty cool.
 
 I'm happy with that.
